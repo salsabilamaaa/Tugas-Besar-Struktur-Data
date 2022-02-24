@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1587214370 source:d:\ngodingkuy\tubes\tubes\child.cpp
+	<iostream>
+	"child.h"
+
+1587214370 d:\ngodingkuy\tubes\tubes\child.h
+	<iostream>
+
+1587722952 source:d:\kampus\strukdat\tubes\tubes\child.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1587214370 d:\kampus\strukdat\tubes\tubes\child.h
+	<iostream>
+
+1587722951 source:d:\kampus\strukdat\tubes\tubes\main.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+	"relasi_1_n.h"
+
+1587652854 source:d:\kampus\strukdat\tubes\tubes\parent.cpp
+
+1587744213 d:\kampus\strukdat\tubes\tubes\parent.h
+	"child.h"
+	<iostream>
+
+1587722693 d:\kampus\strukdat\tubes\tubes\relasi_1_n.h
+	"parent.h"
+	"child.h"
+
+1587723078 source:d:\kampus\strukdat\tubes\tubes\relasi_1_n.cpp
+	"relasi_1_n.h"
+
+1587881241 source:c:\users\salsabilamaa\downloads\tubes\tubes\child.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1587214370 c:\users\salsabilamaa\downloads\tubes\tubes\child.h
+	<iostream>
+
+1587831165 c:\users\salsabilamaa\downloads\tubes\tubes\parent.h
+	"child.h"
+	<iostream>
+
+1587875244 source:c:\users\salsabilamaa\downloads\tubes\tubes\relasi_1_n.cpp
+	"relasi_1_n.h"
+
+1587830178 c:\users\salsabilamaa\downloads\tubes\tubes\relasi_1_n.h
+	"parent.h"
+	"child.h"
+
+1587881354 source:c:\users\salsabilamaa\downloads\tubes\tubes\main.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+	"relasi_1_n.h"
+
+1587876267 source:c:\users\salsabilamaa\downloads\tubes\tubes\parent.cpp
+	"parent.h"
+	"child.h"
+
+1587881241 source:c:\users\salsabilamaa\documents\tubes_1301194469\child.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1587214370 c:\users\salsabilamaa\documents\tubes_1301194469\child.h
+	<iostream>
+
+1587831165 c:\users\salsabilamaa\documents\tubes_1301194469\parent.h
+	"child.h"
+	<iostream>
+
+1588137085 source:c:\users\salsabilamaa\documents\tubes_1301194469\main.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+	"relasi_1_n.h"
+
+1587830178 c:\users\salsabilamaa\documents\tubes_1301194469\relasi_1_n.h
+	"parent.h"
+	"child.h"
+
+1587891487 source:c:\users\salsabilamaa\documents\tubes_1301194469\parent.cpp
+	"parent.h"
+	"child.h"
+
+1587875244 source:c:\users\salsabilamaa\documents\tubes_1301194469\relasi_1_n.cpp
+	"relasi_1_n.h"
+
+1587881241 source:d:\ngodingkuy\tubes std\tubes_1301194469\child.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1587214370 d:\ngodingkuy\tubes std\tubes_1301194469\child.h
+	<iostream>
+
+1587831165 d:\ngodingkuy\tubes std\tubes_1301194469\parent.h
+	"child.h"
+	<iostream>
+
+1588137085 source:d:\ngodingkuy\tubes std\tubes_1301194469\main.cpp
+	<iostream>
+	"child.h"
+	"parent.h"
+	"relasi_1_n.h"
+
+1587830178 d:\ngodingkuy\tubes std\tubes_1301194469\relasi_1_n.h
+	"parent.h"
+	"child.h"
+
+1587891487 source:d:\ngodingkuy\tubes std\tubes_1301194469\parent.cpp
+	"parent.h"
+	"child.h"
+
+1587875244 source:d:\ngodingkuy\tubes std\tubes_1301194469\relasi_1_n.cpp
+	"relasi_1_n.h"
+
